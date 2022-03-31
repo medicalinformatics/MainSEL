@@ -16,4 +16,8 @@ the patient list,
 2. [The Secure Epilinker](https://github.com/medicalinformatics/SecureEpilinker), the sMPC preforming record linkage component, and 
 3. [The Docker Deployment package](https://github.com/medicalinformatics/mainsel-docker), for easy and quick deployment and configuration.
 
-Some documentation and how-to-guides can be found in the respective repositories, although a more comprehensive how-to for secure, distributed record linkage will be published no later than 31 March 2022.
+Some documentation and how-to-guides can be found in the respective
+repositories. Documentation concerned with the complete MainSEL system is published in
+this repository. At the moment this documentation consists of the [MainSEL API
+reference](docs/api_reference.md), more tutorials and how-to guides will be
+added in the future.
