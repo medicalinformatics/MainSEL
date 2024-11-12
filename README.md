@@ -11,7 +11,7 @@ Computation](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093
 MainSEL consists of three repositories:
 
 1. [The
-Mainzelliste](https://bitbucket.org/medicalinformatics/mainzelliste/src/d8064c352cbddb09bc70105ebc517a76c48349d3/?at=feature%2FMainzellisteSEL ),
+Mainzelliste](https://github.com/medicalinformatics/MainzellisteSEL),
 the patient list,
 2. [The Secure Epilinker](https://github.com/medicalinformatics/SecureEpilinker), the sMPC preforming record linkage component, and 
 3. [The Docker Deployment package](https://github.com/medicalinformatics/mainsel-docker), for easy and quick deployment and configuration.
